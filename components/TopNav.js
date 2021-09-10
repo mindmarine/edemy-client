@@ -1,5 +1,9 @@
-import { Menu } from "antd";
-import Link from "next/link";
+import { Menu } from "antd"
+// Watch out this Link component is different than the link from react
+// it is a Link component from Next.js
+import Link from "next/link"
+
+// Importing Ant Design Icons
 import {
   AppstoreOutlined,
   LoginOutlined,
@@ -28,6 +32,7 @@ const TopNav = () => {
           <a>Register</a>
         </Link>
       </Item>
+
     </Menu>
   );
 };

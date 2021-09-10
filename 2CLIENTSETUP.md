@@ -16,7 +16,7 @@ Step by step
 Next.js uses the App component to initialize pages
 This app component runs before any pages gets ready for users to see
 This is a perfect place to add bootstrap css
-IMPORTANT - RESTART TEH SERVER
+IMPORTANT - RESTART THE SERVER
 - install bootstrap `npm install bootstrap` or `npm i bootstrap`
 - install Ant Design `npm i antd`. Ant Design helps create react components and styling. Ant Design is similar to Material UI
 - index.js create jumbotron `className="jumbotron text-center bg-primary square"`

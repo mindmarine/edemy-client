@@ -1,5 +1,6 @@
 // Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
 
+// _app.js
 // When using Next.js you’ll most likely need to override the global App component to get access to some features like persisting state, or global layouts. This can be done by creating a file_app.js directly in the ./pages/ folder. If this file exists, then Next.js will use this instead of the default App.
 
 // Next.js _app.js example
